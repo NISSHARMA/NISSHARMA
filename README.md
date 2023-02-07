@@ -9,10 +9,12 @@
 
 - 💻  Projects available at https://NISSHARMA.github.io
 
- Connect with me:
- <a herf="https://www.linkedin.com/in/nisha-sharma-651a3823a/">
- <img width="30px" scr="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
+ <h2>Connect with me:</h2>
+ 
+ <a href="https://www.linkedin.com/in/nisha-sharma-651a3823a/">
+ <img width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
  </a>
+ 
 
 <!--
 **NISSHARMA/NISSHARMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
