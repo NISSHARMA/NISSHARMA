@@ -1,7 +1,6 @@
 <h1 align="center"> Hey there 👋I'm Nisha Sharma</h1>
 
- <div display="flex">
- <div style="width:50%;" >
+ 
 - 🌱 I’m currently learning <b>React.js</b>
  
 - 💬 Ask me about <b>React.js Javascript</b>
@@ -9,13 +8,16 @@
 - 📫 Reach me at nisha.01696@gmail.com
 
 - 💻  Projects available at https://NISSHARMA.github.io
+  
+  
+
 
  <h2>Connect with me:</h2>
  
  <a href="https://www.linkedin.com/in/nisha-sharma-651a3823a/">
  <img width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
  </a>
- </div>
+ 
  
  
  <h3 align="left">Languages and Tools:</h3>
