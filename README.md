@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [https://NISSHARMA.github.io](https://NISSHARMA.github.io)
+- 👨‍💻 All of my projects are available at https://NISSHARMA.github.io
 
 - 💬 Ask me about **React JS Javascript**
 
