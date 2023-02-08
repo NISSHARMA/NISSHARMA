@@ -7,11 +7,12 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All projects are available at [https://NISSHARMA.github.io](https://NISSHARMA.github.io)
-
 - 💬 Ask me about **React JS Javascript**
 
 - 📫 How to reach me **nisha.01696@gmail.com**
+
+- 👨‍💻 Projects available at https://NISSHARMA.github.io
+
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/nisha-sharma-651a3823a/">
