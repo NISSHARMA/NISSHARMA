@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nisha.01696@gmail.com**
 
-- 👨‍💻 Projects available at https://nissharma.github.io
+- 👨‍💻 Projects available at <a href="https://nissharma.github.io">https://nissharma.github.io/</a>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -19,19 +19,6 @@
   <img width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
 </a>
 <p align="left">
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
