@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nisha.01696@gmail.com**
 
-- 👨‍💻 Projects available at <a href="https://nissharma.github.io"> My Project </a>
+- 👨‍💻 Projects available at <a href="https://nissharma.github.io/"> My Project </a>
 
 
 <h3 align="left">Connect with me:</h3>
