@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/nisha-sharma-651a3823a/">
   <img width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
 </a>
-- 👨‍💻 Projects available at <a href="https://nissharma.github.io" target='_blank'>
+- 👨‍💻 Projects available at <a href="https://nissharma.github.io" target='_blank'>portfolio</a>
 
 
 <p align="left">
