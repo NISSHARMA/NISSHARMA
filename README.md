@@ -5,9 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nissharma&label=Profile%20views&color=0e75b6&style=flat" alt="nissharma" /> </p>
 
-
-
-
 - 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **ReactJS Javascript Express**
@@ -54,6 +51,13 @@
   <img width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
 </a><br>
 
+- 🌱 I’m currently learning **ReactJS**
+
+- 💬 Ask me about **ReactJS Javascript Express**
+
+- 📫 How to reach me **nisha.01696@gmail.com**
+ 
+- 👨‍💻 Projects available at https://nissharma.github.io/
 
 <p align="left">
 
