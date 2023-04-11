@@ -24,14 +24,14 @@
 # 📊 GitHub Stats:
 
 
-<div >
+<div align="center">
   <div style="display: flex;">
     <img width="40%" src="https://github-readme-stats.vercel.app/api?username=NISSHARMA&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="vertical-align: top;" />
-    <img  width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=NISSHARMA&theme=dark&hide_border=false" />
+    <img  width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NISSHARMA&theme=dark&hide_border=false" />
   </div>
 </div>
 
-<div >
+<div align="center" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NISSHARMA&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
