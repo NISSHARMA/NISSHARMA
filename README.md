@@ -24,7 +24,7 @@
 # 📊 GitHub Stats:
 
 
-<div align="center">
+<div >
   <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=NISSHARMA&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="vertical-align: top;" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NISSHARMA&theme=dark&hide_border=false" />
