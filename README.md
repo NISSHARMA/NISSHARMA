@@ -1,4 +1,7 @@
-<img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+
+<div align="center">
+ <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+</div>
 
 <h1 align="center">Hi 👋, I'm Nisha Sharma</h1>
 <h3 align="center">A passionate frontend developer</h3>
